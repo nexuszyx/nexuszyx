@@ -1,6 +1,6 @@
 Hi, I'm Evan Chen!
 
-CS student at UC Santa Cruz (Class of 2028) focused on computer vision, machine learning, and applied AI. Currently a Machine Learning Research Assistant at UCSF's Helen Diller Cancer Center.
+Undergraduate CS student at UC Santa Cruz focused on computer vision, machine learning, and applied AI. Currently a Machine Learning Research Assistant at UCSF's Helen Diller Cancer Center.
 
 🔬 Building a U-Net segmentation model for chromosome classification from fluorescence imaging data
 🛸 Contributed to a real-time object detection pipeline for a competition drone (SUAS)
